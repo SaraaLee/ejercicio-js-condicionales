@@ -9,4 +9,9 @@ let numero = 5;
 
 // AQUÍ TU CÓDIGO. Necesitas codificar una estructura if...else. Mira los ejemplos anteriores. Cambia el valor de la variable "numero" para comprobar que has implementado bien la solución https://www.w3schools.com/js/js_if_else.asp
 
-
+if (numero >= 5){
+    console.log("El número es mayor de 5");
+}
+else {
+    console.log("El número es menor de 5");
+}
